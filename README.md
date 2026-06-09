@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Sherangi Gange</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Sherangi+Gange;BSc+(Hons)+Data+Science+Undergraduate" alt="Typing SVG" />
+</h1>
 <h3 align="center">I’m an IT undergraduate passionate about software development 💻 and data analytics 📊, building practical solutions.</h3>
 
   <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="350" alt="Girl Coding">
 
-- 🌱 I’m currently learning **🌱 Currently learning Machine Learning, Data Visualization, and Full-Stack Development**
+🌱 Currently learning Machine Learning, Data Visualization, and Full-Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://sherangi.github.io/my-portfolio/](https://sherangi.github.io/my-portfolio/)
 
